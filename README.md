@@ -2,7 +2,7 @@
 
 **Required Mods**: Gravity Mod v1.2.1+
 
-**Setup Instructions**: Download the zip, and then extract it. The "GravityMod" folder extracted from the zip needs to be placed in "...\Poly Bridge 2\Poly Bridge 2_Data\StreamingAssets\Levels". Note that if you already have the GravityMod folder from downloading a different world of the Galaxy Campaign, you only need to move the contents of the extracted GravityMod folder into the already existing GravityMod folder.  
+**Setup Instructions**: Download the Galaxy_World_2.zip, and then extract it. The "GravityMod" folder extracted from the zip needs to be placed in "...\Poly Bridge 2\Poly Bridge 2_Data\StreamingAssets\Levels". Note that if you already have the GravityMod folder from downloading a different world of the Galaxy Campaign, you only need to move the contents of the extracted GravityMod folder into the already existing GravityMod folder.  
 
 **To Play**: Enable the "Load Custom Layout" setting in the Gravity Mod, then load a level from the normal campaign. The galaxy version of the level should load in place of the normal level.
 
