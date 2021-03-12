@@ -14,4 +14,4 @@ save these as their own files before playing the campaign, or else you may lose 
 - Do not go around the planet in the wrong irection to collect the flag.
 
 **Settings**:
-The settings should automatically be set when loading a level.
+The settings should automatically be set by PolyTech Framework when loading a level.
