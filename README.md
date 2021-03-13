@@ -11,7 +11,7 @@ save these as their own files before playing the campaign, or else you may lose 
 
 **Rules**:
 - Do not let the vehicles touch the water, as that would ruin the spirit of the levels.
-- Do not go around the planet in the wrong irection to collect the flag.
+- Do not go around the planet in the wrong direction to collect the flag.
 
 **Settings**:
 The settings should automatically be set by PolyTech Framework when loading a level.
